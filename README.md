@@ -17,9 +17,9 @@ I'm a passionate MERN Stack Developer with a strong focus on React and React Nat
 ## 📚 Projects
 
 - [TonX - Cargo Transportations](https://tonx.africa/)
-- - Full Stack Mobile and Web App, made using React and React Native Expo and used Firebase for Backend as service
+  - Full Stack Mobile and Web App, made using React and React Native Expo and used Firebase for Backend as service
 - [Youtube Clone Backend](https://github.com/armemon/Youtube-Clone-Backend)
-- - Fully integrated start to bottom upgrade-able Youtube Backend, made with Express, MongoDB
+  - Fully integrated start to bottom upgrade-able Youtube Backend, made with Express, MongoDB
 
 ## 📖 Learning Journey
 
